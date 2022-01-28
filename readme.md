@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to MindSet 🌱</h1>
+<h1 align="center">BaSD-2021 - Final Server App Repository</h1>
+
+# Welcome to MindSet 🌱
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-16.8.0-blue.svg" />
